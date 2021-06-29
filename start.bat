@@ -1,0 +1,1 @@
+start share.bat & dotnet run
